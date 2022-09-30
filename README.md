@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @exalus-code
-- 👀 I’m interested in javascript ecosystem 
+- 👀 I’m interested in front-end developement and Ux/Ui design
 - 🌱 I’m currently learning Three.js
 - 📫 How to reach me: exalus.code@gmail.com
-- 👀 I'm a front-end devloper and a freelancer
+- 👀 I'm a freelancer
 
 <!---
 exalus-code/exalus-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
